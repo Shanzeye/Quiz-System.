@@ -1,0 +1,19 @@
+{
+  "name": "h66-quiz",
+  "version": "1.0.0",
+  "description": "The app will show the students multiple choice questions and promt the user to reply. In the end it will show the students the result of the quiz.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shanzeye",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
